@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, It's me Amol!!! 👋
 
-<!--
-**AmolAnasane/AmolAnasane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+About Me:
+
+- 🔭 I’m currently working on Machine Learning
+- 🌱 I’m currently learning Financial Analytics
+- 👯 I’m looking to collaborate on Analytics Assignments In Banks
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: amolanasane@gmail.com
+- ⚡ Learning is never ending process. Every day, every moment  from every person we should learn something, that's how a person 
+          grows and advances to achieve his goals in life.
+
